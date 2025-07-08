@@ -1,3 +1,3 @@
 # demo
 my first repository.
-Auther- Swapnil Gaikwad
+Author- Swapnil Gaikwad
